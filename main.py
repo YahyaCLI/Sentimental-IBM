@@ -2,7 +2,7 @@ import requests
 from datetime import date
 from pprint import pprint
 
-API_TOKEN = "wDUNbwdxSYrwoDxEV1gDbxcRKLqDByDRA426ZJ7y"  # replace with your Marketaux key
+API_TOKEN = "KEY is HIDDEN :)"  # replace with your Marketaux key
 
 # Target companies
 symbols_list = ["TSLA", "AMZN", "NVDA"]
@@ -88,10 +88,8 @@ def main():
         except Exception as e:
             print(f"Error for {symbol}: {e}")
 
-    # Save structured articles to text file
     save_articles_to_file(all_articles)
 
-    # Optional: also pretty-print summary
     pprint({
         "meta": {
             "symbols": symbols_list,
@@ -103,3 +101,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
