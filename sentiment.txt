@@ -1,0 +1,101 @@
+Sentiment Analysis Articles - Date: 2026-01-31
+
+Article 1:
+Title: Benzinga Bulls And Bears: Microsoft, Meta, UnitedHealth — And Warsh Pick Jolts Markets
+Summary: Benzinga examined the prospects for many investors' favorite stocks over the last week — here's a look at some of our top stories.
+Source: benzinga.com
+URL: https://www.benzinga.com/markets/market-summary/26/01/50286396/benzinga-bulls-and-bears-microsoft-meta-unitedhealth-and-warsh-pick-jolts-markets
+Published At: 2026-01-31T13:01:31.000000Z
+Companies:
+  - Tesla, Inc. (TSLA, Consumer Cyclical), Sentiment: Positive (0.7906)
+
+--------------------------------------------------------------------------------
+
+Article 2:
+Title: US stocks fall while a break in gold fever sends metals prices plunging
+Summary: NEW YORK — Financial markets churned on Friday as investors tried to figure out what President Donald Trump’s new nominee to lead the Federal Reserve will mean for interest rates.
+Source: manilatimes.net
+URL: https://www.manilatimes.net/2026/01/31/business/foreign-business/us-stocks-fall-while-a-break-in-gold-fever-sends-metals-prices-plunging/2269028
+Published At: 2026-01-31T05:10:48.000000Z
+Companies:
+  - Tesla, Inc. (TSLA, Consumer Cyclical), Sentiment: Positive (0.4379)
+
+--------------------------------------------------------------------------------
+
+Article 3:
+Title: Want SpaceX Before the IPO? These Funds Are All In
+Summary: Market Analysis by  covering: Tesla Inc, Baron Partners Fund Retail Shares, Baron First Principles ETF. Read 's Market Analysis on Investing.com
+Source: investing.com
+URL: https://www.investing.com/analysis/want-spacex-before-the-ipo-these-funds-are-all-in-200674095
+Published At: 2026-01-31T05:08:00.000000Z
+Companies:
+  - Tesla, Inc. (TSLA, Consumer Cyclical), Sentiment: Positive (0.75255)
+
+--------------------------------------------------------------------------------
+
+Article 4:
+Title: Nvidia Halts Plan To Invest $100 Billion In OpenAI, WSJ Says
+Summary: A representative for OpenAI didnt immediately respond to a request for comment.
+Source: ndtv.com
+URL: https://www.ndtvprofit.com/world/nvidia-halts-plan-to-invest-100-billion-in-openai-wsj-says-10917590#publisher=newsstand
+Published At: 2026-01-31T01:55:23.000000Z
+Companies:
+  - Amazon.com, Inc. (AMZN, Consumer Cyclical), Sentiment: Positive (0.6705)
+
+--------------------------------------------------------------------------------
+
+Article 5:
+Title: Peloton layoffs: Headcount reduced by 11%, engineering teams impacted in cost-cutting move
+Summary: Peloton Interactive Inc., the long-struggling fitness technology company, slashed 11% of its workforce in a cost-cutting move, according to a person with knowledge of the matter.
+Source: livemint.com
+URL: https://www.livemint.com/companies/news/peloton-interactive-layoffs-headcount-reduced-11-pc-job-cuts-engineering-teams-impact-cost-cutting-fitness-tech-company-11769819977215.html
+Published At: 2026-01-31T01:26:05.000000Z
+Companies:
+  - Amazon.com, Inc. (AMZN, Consumer Cyclical), Sentiment: Negative (-0.128)
+
+--------------------------------------------------------------------------------
+
+Article 6:
+Title: Could A $1 Trillion OpenAI IPO Save The Day For Nvidia, Microsoft? - Advanced Micro Devices (NASDAQ:AMD), Amazon.com (NASDAQ:AMZN)
+Summary: OpenAI and Anthropic are expected to have IPOs in 2026, potentially driving up AI infrastructure spending and benefiting companies like Nvidia, Amazon, and Microsoft.
+Source: benzinga.com
+URL: https://www.benzinga.com/markets/prediction-markets/26/01/50283933/could-a-1-trillion-openai-ipo-save-the-day-for-nvidia-microsoft
+Published At: 2026-01-30T21:53:17.000000Z
+Companies:
+  - Amazon.com, Inc. (AMZN, Consumer Cyclical), Sentiment: Positive (0.1379)
+
+--------------------------------------------------------------------------------
+
+Article 7:
+Title: Want SpaceX Before the IPO? These Funds Are All In
+Summary: Market Analysis by  covering: Tesla Inc, Baron Partners Fund Retail Shares, Baron First Principles ETF. Read 's Market Analysis on Investing.com
+Source: investing.com
+URL: https://www.investing.com/analysis/want-spacex-before-the-ipo-these-funds-are-all-in-200674095
+Published At: 2026-01-31T05:08:00.000000Z
+Companies:
+  - NVIDIA Corporation (NVDA, Technology), Sentiment: Positive (0.7343)
+
+--------------------------------------------------------------------------------
+
+Article 8:
+Title: DeepSeek Turns Nvidia Customer As China Approves H200 Chip Purchases: Report - Alibaba Gr Hldgs (NYSE:BABA), NVIDIA (NASDAQ:NVDA)
+Summary: China has conditionally approved DeepSeek and other major tech firms to buy Nvidia's H200 chips, undercutting earlier fears that the low-cost AI startup would reduce demand for Nvidia's high-end processors.
+Source: benzinga.com
+URL: https://www.benzinga.com/markets/tech/26/01/50285695/deepseek-turns-nvidia-customer-as-china-approves-h200-chip-purchases-report
+Published At: 2026-01-31T02:22:14.000000Z
+Companies:
+  - NVIDIA Corporation (NVDA, Technology), Sentiment: Positive (0.205029)
+
+--------------------------------------------------------------------------------
+
+Article 9:
+Title: Could A $1 Trillion OpenAI IPO Save The Day For Nvidia, Microsoft? - Advanced Micro Devices (NASDAQ:AMD), Amazon.com (NASDAQ:AMZN)
+Summary: OpenAI and Anthropic are expected to have IPOs in 2026, potentially driving up AI infrastructure spending and benefiting companies like Nvidia, Amazon, and Microsoft.
+Source: benzinga.com
+URL: https://www.benzinga.com/markets/prediction-markets/26/01/50283933/could-a-1-trillion-openai-ipo-save-the-day-for-nvidia-microsoft
+Published At: 2026-01-30T21:53:17.000000Z
+Companies:
+  - NVIDIA Corporation (NVDA, Technology), Sentiment: Positive (0.33135)
+
+--------------------------------------------------------------------------------
+
