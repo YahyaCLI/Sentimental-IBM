@@ -2,7 +2,7 @@ import requests
 from datetime import date
 from pprint import pprint
 
-API_TOKEN = "KEY is HIDDEN :)"  # replace with your Marketaux key
+API_TOKEN = "KEY is HIDDEN :)"
 
 # Target companies
 symbols_list = ["TSLA", "AMZN", "NVDA"]
